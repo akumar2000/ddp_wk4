@@ -10,7 +10,7 @@ Introduction
 
 - A shiny app was developed to conduct regression analyses using some of the variables in the "mtcars" data set
 
-- The shiny app can be accessed using the following link: 
+- The shiny app can be accessed using the following link: https://akumar2000.shinyapps.io/ddp_wk4/
 
 - The source code is provided on Github: https://github.com/akumar2000/ddp_wk4
   
